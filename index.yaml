@@ -1,0 +1,14 @@
+apiVersion: v1
+entries:
+  test:
+  - apiVersion: v2
+    appVersion: 1.16.0
+    created: "2023-03-13T15:37:33.793561295+08:00"
+    description: A Helm chart for Kubernetes
+    digest: 8712ce7cb0a346611475937a83ca3c93ba05bea0e70adf03227078ab4f0d4dca
+    name: test
+    type: application
+    urls:
+    - https://github.com/Laniakea-x/charts/test-0.1.0.tgz
+    version: 0.1.0
+generated: "2023-03-13T15:37:33.79181883+08:00"
