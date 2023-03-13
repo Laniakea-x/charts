@@ -9,6 +9,6 @@ entries:
     name: test
     type: application
     urls:
-    - https://github.com/Laniakea-x/charts/test-0.1.0.tgz
+    - https://laniakea-x.github.io/charts/test-0.1.0.tgz
     version: 0.1.0
 generated: "2023-03-13T15:37:33.79181883+08:00"
